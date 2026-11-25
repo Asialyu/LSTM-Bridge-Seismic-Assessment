@@ -1,0 +1,241 @@
+case_id,motion_name,intensity,original_length,final_length,action,max_acc,max_disp,dt,augmentation
+A-CAT_0p10g,A-CAT,0.1,1646,2000,padded (+354),0.1,0.00230043,0.02,
+A-CAT_0p10g_aug1_shift_20_scale_0.905_noise_0.011,A-CAT,0.1,1646,2000,padded (+354),0.1,0.00230043,0.02,shift_20_scale_0.905_noise_0.011
+A-CAT_0p10g_aug2_shift_46_scale_1.040_noise_0.016,A-CAT,0.1,1646,2000,padded (+354),0.1,0.00230043,0.02,shift_46_scale_1.040_noise_0.016
+A-CAT_0p10g_aug3_shift_-10_scale_0.901_noise_0.013,A-CAT,0.1,1646,2000,padded (+354),0.1,0.00230043,0.02,shift_-10_scale_0.901_noise_0.013
+A-CAT_0p20g,A-CAT,0.2,1646,2000,padded (+354),0.2,0.00465755,0.02,
+A-CAT_0p20g_aug1_shift_28_scale_1.006_noise_0.011,A-CAT,0.2,1646,2000,padded (+354),0.2,0.00465755,0.02,shift_28_scale_1.006_noise_0.011
+A-CAT_0p20g_aug2_shift_1_scale_1.087_noise_0.018,A-CAT,0.2,1646,2000,padded (+354),0.2,0.00465755,0.02,shift_1_scale_1.087_noise_0.018
+A-CAT_0p20g_aug3_shift_-6_scale_0.984_noise_0.018,A-CAT,0.2,1646,2000,padded (+354),0.2,0.00465755,0.02,shift_-6_scale_0.984_noise_0.018
+A-CAT_0p30g,A-CAT,0.3,1646,2000,padded (+354),0.3,0.00680631525,0.02,
+A-CAT_0p30g_aug1_shift_47_scale_1.072_noise_0.013,A-CAT,0.3,1646,2000,padded (+354),0.3,0.00680631525,0.02,shift_47_scale_1.072_noise_0.013
+A-CAT_0p30g_aug2_shift_-46_scale_0.999_noise_0.010,A-CAT,0.3,1646,2000,padded (+354),0.3,0.00680631525,0.02,shift_-46_scale_0.999_noise_0.010
+A-CAT_0p30g_aug3_shift_12_scale_1.064_noise_0.026,A-CAT,0.3,1646,2000,padded (+354),0.3,0.00680631525,0.02,shift_12_scale_1.064_noise_0.026
+A-CAT_0p40g,A-CAT,0.4,1646,2000,padded (+354),0.4,0.00896239331,0.02,
+A-CAT_0p40g_aug1_shift_29_scale_0.986_noise_0.020,A-CAT,0.4,1646,2000,padded (+354),0.4,0.00896239331,0.02,shift_29_scale_0.986_noise_0.020
+A-CAT_0p40g_aug2_shift_50_scale_0.996_noise_0.013,A-CAT,0.4,1646,2000,padded (+354),0.4,0.00896239331,0.02,shift_50_scale_0.996_noise_0.013
+A-CAT_0p40g_aug3_shift_12_scale_1.020_noise_0.029,A-CAT,0.4,1646,2000,padded (+354),0.4,0.00896239331,0.02,shift_12_scale_1.020_noise_0.029
+A-CAT_0p50g,A-CAT,0.5,1646,2000,padded (+354),0.5,0.0103502422,0.02,
+A-CAT_0p50g_aug1_shift_30_scale_0.912_noise_0.021,A-CAT,0.5,1646,2000,padded (+354),0.5,0.0103502422,0.02,shift_30_scale_0.912_noise_0.021
+A-CAT_0p50g_aug2_shift_41_scale_1.005_noise_0.030,A-CAT,0.5,1646,2000,padded (+354),0.5,0.0103502422,0.02,shift_41_scale_1.005_noise_0.030
+A-CAT_0p50g_aug3_shift_-39_scale_0.978_noise_0.024,A-CAT,0.5,1646,2000,padded (+354),0.5,0.0103502422,0.02,shift_-39_scale_0.978_noise_0.024
+A-ELC_0p10g,A-ELC,0.1,2000,2000,unchanged,0.1,0.00409764187,0.02,
+A-ELC_0p10g_aug1_shift_32_scale_1.025_noise_0.013,A-ELC,0.1,2000,2000,unchanged,0.1,0.00409764187,0.02,shift_32_scale_1.025_noise_0.013
+A-ELC_0p10g_aug2_shift_17_scale_0.902_noise_0.021,A-ELC,0.1,2000,2000,unchanged,0.1,0.00409764187,0.02,shift_17_scale_0.902_noise_0.021
+A-ELC_0p10g_aug3_shift_-25_scale_0.950_noise_0.021,A-ELC,0.1,2000,2000,unchanged,0.1,0.00409764187,0.02,shift_-25_scale_0.950_noise_0.021
+A-ELC_0p20g,A-ELC,0.2,2000,2000,unchanged,0.2,0.008250817,0.02,
+A-ELC_0p20g_aug1_shift_31_scale_0.969_noise_0.023,A-ELC,0.2,2000,2000,unchanged,0.2,0.008250817,0.02,shift_31_scale_0.969_noise_0.023
+A-ELC_0p20g_aug2_shift_-9_scale_0.993_noise_0.011,A-ELC,0.2,2000,2000,unchanged,0.2,0.008250817,0.02,shift_-9_scale_0.993_noise_0.011
+A-ELC_0p20g_aug3_shift_-44_scale_1.007_noise_0.021,A-ELC,0.2,2000,2000,unchanged,0.2,0.008250817,0.02,shift_-44_scale_1.007_noise_0.021
+A-ELC_0p30g,A-ELC,0.3,2000,2000,unchanged,0.3,0.01350943,0.02,
+A-ELC_0p30g_aug1_shift_-30_scale_1.078_noise_0.023,A-ELC,0.3,2000,2000,unchanged,0.3,0.01350943,0.02,shift_-30_scale_1.078_noise_0.023
+A-ELC_0p30g_aug2_shift_-15_scale_1.035_noise_0.024,A-ELC,0.3,2000,2000,unchanged,0.3,0.01350943,0.02,shift_-15_scale_1.035_noise_0.024
+A-ELC_0p30g_aug3_shift_-6_scale_1.037_noise_0.021,A-ELC,0.3,2000,2000,unchanged,0.3,0.01350943,0.02,shift_-6_scale_1.037_noise_0.021
+A-ELC_0p40g,A-ELC,0.4,2000,2000,unchanged,0.4,0.0169742935,0.02,
+A-ELC_0p40g_aug1_shift_-34_scale_0.919_noise_0.020,A-ELC,0.4,2000,2000,unchanged,0.4,0.0169742935,0.02,shift_-34_scale_0.919_noise_0.020
+A-ELC_0p40g_aug2_shift_-47_scale_0.962_noise_0.028,A-ELC,0.4,2000,2000,unchanged,0.4,0.0169742935,0.02,shift_-47_scale_0.962_noise_0.028
+A-ELC_0p40g_aug3_shift_-6_scale_0.916_noise_0.017,A-ELC,0.4,2000,2000,unchanged,0.4,0.0169742935,0.02,shift_-6_scale_0.916_noise_0.017
+A-ELC_0p50g,A-ELC,0.5,2000,2000,unchanged,0.5,0.019515849,0.02,
+A-ELC_0p50g_aug1_shift_-38_scale_1.007_noise_0.023,A-ELC,0.5,2000,2000,unchanged,0.5,0.019515849,0.02,shift_-38_scale_1.007_noise_0.023
+A-ELC_0p50g_aug2_shift_-18_scale_0.935_noise_0.022,A-ELC,0.5,2000,2000,unchanged,0.5,0.019515849,0.02,shift_-18_scale_0.935_noise_0.022
+A-ELC_0p50g_aug3_shift_33_scale_0.911_noise_0.015,A-ELC,0.5,2000,2000,unchanged,0.5,0.019515849,0.02,shift_33_scale_0.911_noise_0.015
+A-KOD_0p10g,A-KOD,0.1,1049,2000,padded (+951),0.1,0.0029662,0.02,
+A-KOD_0p10g_aug1_shift_25_scale_0.984_noise_0.026,A-KOD,0.1,1049,2000,padded (+951),0.1,0.0029662,0.02,shift_25_scale_0.984_noise_0.026
+A-KOD_0p10g_aug2_shift_-33_scale_0.948_noise_0.017,A-KOD,0.1,1049,2000,padded (+951),0.1,0.0029662,0.02,shift_-33_scale_0.948_noise_0.017
+A-KOD_0p10g_aug3_shift_48_scale_0.952_noise_0.026,A-KOD,0.1,1049,2000,padded (+951),0.1,0.0029662,0.02,shift_48_scale_0.952_noise_0.026
+A-KOD_0p20g,A-KOD,0.2,1049,2000,padded (+951),0.2,0.00563435098,0.02,
+A-KOD_0p20g_aug1_shift_32_scale_1.091_noise_0.016,A-KOD,0.2,1049,2000,padded (+951),0.2,0.00563435098,0.02,shift_32_scale_1.091_noise_0.016
+A-KOD_0p20g_aug2_shift_-29_scale_0.990_noise_0.020,A-KOD,0.2,1049,2000,padded (+951),0.2,0.00563435098,0.02,shift_-29_scale_0.990_noise_0.020
+A-KOD_0p20g_aug3_shift_33_scale_0.981_noise_0.012,A-KOD,0.2,1049,2000,padded (+951),0.2,0.00563435098,0.02,shift_33_scale_0.981_noise_0.012
+A-KOD_0p30g,A-KOD,0.3,1049,2000,padded (+951),0.3,0.00890788475,0.02,
+A-KOD_0p30g_aug1_shift_43_scale_1.041_noise_0.018,A-KOD,0.3,1049,2000,padded (+951),0.3,0.00890788475,0.02,shift_43_scale_1.041_noise_0.018
+A-KOD_0p30g_aug2_shift_-16_scale_0.955_noise_0.024,A-KOD,0.3,1049,2000,padded (+951),0.3,0.00890788475,0.02,shift_-16_scale_0.955_noise_0.024
+A-KOD_0p30g_aug3_shift_-23_scale_0.974_noise_0.011,A-KOD,0.3,1049,2000,padded (+951),0.3,0.00890788475,0.02,shift_-23_scale_0.974_noise_0.011
+A-KOD_0p40g,A-KOD,0.4,1049,2000,padded (+951),0.4,0.0112242438,0.02,
+A-KOD_0p40g_aug1_shift_37_scale_1.029_noise_0.023,A-KOD,0.4,1049,2000,padded (+951),0.4,0.0112242438,0.02,shift_37_scale_1.029_noise_0.023
+A-KOD_0p40g_aug2_shift_-3_scale_0.996_noise_0.029,A-KOD,0.4,1049,2000,padded (+951),0.4,0.0112242438,0.02,shift_-3_scale_0.996_noise_0.029
+A-KOD_0p40g_aug3_shift_-5_scale_1.003_noise_0.014,A-KOD,0.4,1049,2000,padded (+951),0.4,0.0112242438,0.02,shift_-5_scale_1.003_noise_0.014
+A-KOD_0p50g,A-KOD,0.5,1049,2000,padded (+951),0.5,0.0161953399,0.02,
+A-KOD_0p50g_aug1_shift_-45_scale_1.045_noise_0.020,A-KOD,0.5,1049,2000,padded (+951),0.5,0.0161953399,0.02,shift_-45_scale_1.045_noise_0.020
+A-KOD_0p50g_aug2_shift_33_scale_1.065_noise_0.029,A-KOD,0.5,1049,2000,padded (+951),0.5,0.0161953399,0.02,shift_33_scale_1.065_noise_0.029
+A-KOD_0p50g_aug3_shift_-8_scale_0.974_noise_0.027,A-KOD,0.5,1049,2000,padded (+951),0.5,0.0161953399,0.02,shift_-8_scale_0.974_noise_0.027
+A-SSE_0p10g,A-SSE,0.1,1147,2000,padded (+853),0.1,0.00298373,0.02,
+A-SSE_0p10g_aug1_shift_45_scale_0.996_noise_0.015,A-SSE,0.1,1147,2000,padded (+853),0.1,0.00298373,0.02,shift_45_scale_0.996_noise_0.015
+A-SSE_0p10g_aug2_shift_-49_scale_1.029_noise_0.025,A-SSE,0.1,1147,2000,padded (+853),0.1,0.00298373,0.02,shift_-49_scale_1.029_noise_0.025
+A-SSE_0p10g_aug3_shift_-29_scale_0.914_noise_0.025,A-SSE,0.1,1147,2000,padded (+853),0.1,0.00298373,0.02,shift_-29_scale_0.914_noise_0.025
+A-SSE_0p20g,A-SSE,0.2,1147,2000,padded (+853),0.2,0.00684861037,0.02,
+A-SSE_0p20g_aug1_shift_-15_scale_0.985_noise_0.020,A-SSE,0.2,1147,2000,padded (+853),0.2,0.00684861037,0.02,shift_-15_scale_0.985_noise_0.020
+A-SSE_0p20g_aug2_shift_2_scale_1.077_noise_0.012,A-SSE,0.2,1147,2000,padded (+853),0.2,0.00684861037,0.02,shift_2_scale_1.077_noise_0.012
+A-SSE_0p20g_aug3_shift_14_scale_0.997_noise_0.020,A-SSE,0.2,1147,2000,padded (+853),0.2,0.00684861037,0.02,shift_14_scale_0.997_noise_0.020
+A-SSE_0p30g,A-SSE,0.3,1147,2000,padded (+853),0.3,0.0153488526,0.02,
+A-SSE_0p30g_aug1_shift_-42_scale_0.945_noise_0.030,A-SSE,0.3,1147,2000,padded (+853),0.3,0.0153488526,0.02,shift_-42_scale_0.945_noise_0.030
+A-SSE_0p30g_aug2_shift_-22_scale_1.076_noise_0.027,A-SSE,0.3,1147,2000,padded (+853),0.3,0.0153488526,0.02,shift_-22_scale_1.076_noise_0.027
+A-SSE_0p30g_aug3_shift_-17_scale_1.009_noise_0.018,A-SSE,0.3,1147,2000,padded (+853),0.3,0.0153488526,0.02,shift_-17_scale_1.009_noise_0.018
+A-SSE_0p40g,A-SSE,0.4,1147,2000,padded (+853),0.4,0.0197663281,0.02,
+A-SSE_0p40g_aug1_shift_39_scale_0.991_noise_0.025,A-SSE,0.4,1147,2000,padded (+853),0.4,0.0197663281,0.02,shift_39_scale_0.991_noise_0.025
+A-SSE_0p40g_aug2_shift_23_scale_0.930_noise_0.024,A-SSE,0.4,1147,2000,padded (+853),0.4,0.0197663281,0.02,shift_23_scale_0.930_noise_0.024
+A-SSE_0p40g_aug3_shift_-15_scale_1.066_noise_0.023,A-SSE,0.4,1147,2000,padded (+853),0.4,0.0197663281,0.02,shift_-15_scale_1.066_noise_0.023
+A-SSE_0p50g,A-SSE,0.5,1147,2000,padded (+853),0.5,0.0236029151,0.02,
+A-SSE_0p50g_aug1_shift_-13_scale_1.036_noise_0.017,A-SSE,0.5,1147,2000,padded (+853),0.5,0.0236029151,0.02,shift_-13_scale_1.036_noise_0.017
+A-SSE_0p50g_aug2_shift_-7_scale_1.004_noise_0.014,A-SSE,0.5,1147,2000,padded (+853),0.5,0.0236029151,0.02,shift_-7_scale_1.004_noise_0.014
+A-SSE_0p50g_aug3_shift_-27_scale_1.063_noise_0.021,A-SSE,0.5,1147,2000,padded (+853),0.5,0.0236029151,0.02,shift_-27_scale_1.063_noise_0.021
+B-ELC_0p10g,B-ELC,0.1,2000,2000,unchanged,0.1,0.00364463149,0.02,
+B-ELC_0p10g_aug1_shift_35_scale_0.971_noise_0.019,B-ELC,0.1,2000,2000,unchanged,0.1,0.00364463149,0.02,shift_35_scale_0.971_noise_0.019
+B-ELC_0p10g_aug2_shift_32_scale_1.038_noise_0.013,B-ELC,0.1,2000,2000,unchanged,0.1,0.00364463149,0.02,shift_32_scale_1.038_noise_0.013
+B-ELC_0p10g_aug3_shift_6_scale_0.950_noise_0.011,B-ELC,0.1,2000,2000,unchanged,0.1,0.00364463149,0.02,shift_6_scale_0.950_noise_0.011
+B-ELC_0p20g,B-ELC,0.2,2000,2000,unchanged,0.2,0.00796871082,0.02,
+B-ELC_0p20g_aug1_shift_22_scale_1.030_noise_0.022,B-ELC,0.2,2000,2000,unchanged,0.2,0.00796871082,0.02,shift_22_scale_1.030_noise_0.022
+B-ELC_0p20g_aug2_shift_-20_scale_1.051_noise_0.011,B-ELC,0.2,2000,2000,unchanged,0.2,0.00796871082,0.02,shift_-20_scale_1.051_noise_0.011
+B-ELC_0p20g_aug3_shift_9_scale_0.958_noise_0.012,B-ELC,0.2,2000,2000,unchanged,0.2,0.00796871082,0.02,shift_9_scale_0.958_noise_0.012
+B-ELC_0p30g,B-ELC,0.3,2000,2000,unchanged,0.3,0.0108321245,0.02,
+B-ELC_0p30g_aug1_shift_45_scale_0.931_noise_0.030,B-ELC,0.3,2000,2000,unchanged,0.3,0.0108321245,0.02,shift_45_scale_0.931_noise_0.030
+B-ELC_0p30g_aug2_shift_-16_scale_1.071_noise_0.014,B-ELC,0.3,2000,2000,unchanged,0.3,0.0108321245,0.02,shift_-16_scale_1.071_noise_0.014
+B-ELC_0p30g_aug3_shift_13_scale_1.038_noise_0.016,B-ELC,0.3,2000,2000,unchanged,0.3,0.0108321245,0.02,shift_13_scale_1.038_noise_0.016
+B-ELC_0p40g,B-ELC,0.4,2000,2000,unchanged,0.4,0.0119061244,0.02,
+B-ELC_0p40g_aug1_shift_-37_scale_0.970_noise_0.026,B-ELC,0.4,2000,2000,unchanged,0.4,0.0119061244,0.02,shift_-37_scale_0.970_noise_0.026
+B-ELC_0p40g_aug2_shift_23_scale_1.032_noise_0.023,B-ELC,0.4,2000,2000,unchanged,0.4,0.0119061244,0.02,shift_23_scale_1.032_noise_0.023
+B-ELC_0p40g_aug3_shift_-6_scale_1.076_noise_0.014,B-ELC,0.4,2000,2000,unchanged,0.4,0.0119061244,0.02,shift_-6_scale_1.076_noise_0.014
+B-ELC_0p50g,B-ELC,0.5,2000,2000,unchanged,0.5,0.01726308,0.02,
+B-ELC_0p50g_aug1_shift_-16_scale_1.031_noise_0.016,B-ELC,0.5,2000,2000,unchanged,0.5,0.01726308,0.02,shift_-16_scale_1.031_noise_0.016
+B-ELC_0p50g_aug2_shift_37_scale_0.982_noise_0.029,B-ELC,0.5,2000,2000,unchanged,0.5,0.01726308,0.02,shift_37_scale_0.982_noise_0.029
+B-ELC_0p50g_aug3_shift_-29_scale_1.037_noise_0.026,B-ELC,0.5,2000,2000,unchanged,0.5,0.01726308,0.02,shift_-29_scale_1.037_noise_0.026
+C08_0p10g,C08,0.1,1306,2000,padded (+694),0.1,0.00294694,0.02,
+C08_0p10g_aug1_shift_4_scale_1.080_noise_0.026,C08,0.1,1306,2000,padded (+694),0.1,0.00294694,0.02,shift_4_scale_1.080_noise_0.026
+C08_0p10g_aug2_scale_1.046_noise_0.011,C08,0.1,1306,2000,padded (+694),0.1,0.00294694,0.02,scale_1.046_noise_0.011
+C08_0p10g_aug3_shift_-22_scale_0.916_noise_0.015,C08,0.1,1306,2000,padded (+694),0.1,0.00294694,0.02,shift_-22_scale_0.916_noise_0.015
+C08_0p20g,C08,0.2,1306,2000,padded (+694),0.2,0.00536689075,0.02,
+C08_0p20g_aug1_shift_36_scale_0.921_noise_0.013,C08,0.2,1306,2000,padded (+694),0.2,0.00536689075,0.02,shift_36_scale_0.921_noise_0.013
+C08_0p20g_aug2_shift_33_scale_1.059_noise_0.013,C08,0.2,1306,2000,padded (+694),0.2,0.00536689075,0.02,shift_33_scale_1.059_noise_0.013
+C08_0p20g_aug3_shift_5_scale_1.081_noise_0.027,C08,0.2,1306,2000,padded (+694),0.2,0.00536689075,0.02,shift_5_scale_1.081_noise_0.027
+C08_0p30g,C08,0.3,1306,2000,padded (+694),0.3,0.00713682393,0.02,
+C08_0p30g_aug1_shift_39_scale_1.075_noise_0.012,C08,0.3,1306,2000,padded (+694),0.3,0.00713682393,0.02,shift_39_scale_1.075_noise_0.012
+C08_0p30g_aug2_shift_-24_scale_0.938_noise_0.022,C08,0.3,1306,2000,padded (+694),0.3,0.00713682393,0.02,shift_-24_scale_0.938_noise_0.022
+C08_0p30g_aug3_shift_13_scale_1.078_noise_0.022,C08,0.3,1306,2000,padded (+694),0.3,0.00713682393,0.02,shift_13_scale_1.078_noise_0.022
+C08_0p40g,C08,0.4,1306,2000,padded (+694),0.4,0.00908223222,0.02,
+C08_0p40g_aug1_shift_9_scale_1.021_noise_0.012,C08,0.4,1306,2000,padded (+694),0.4,0.00908223222,0.02,shift_9_scale_1.021_noise_0.012
+C08_0p40g_aug2_shift_-35_scale_1.091_noise_0.025,C08,0.4,1306,2000,padded (+694),0.4,0.00908223222,0.02,shift_-35_scale_1.091_noise_0.025
+C08_0p40g_aug3_shift_23_scale_0.977_noise_0.024,C08,0.4,1306,2000,padded (+694),0.4,0.00908223222,0.02,shift_23_scale_0.977_noise_0.024
+C08_0p50g,C08,0.5,1306,2000,padded (+694),0.5,0.0112491272,0.02,
+C08_0p50g_aug1_shift_-19_scale_1.002_noise_0.026,C08,0.5,1306,2000,padded (+694),0.5,0.0112491272,0.02,shift_-19_scale_1.002_noise_0.026
+C08_0p50g_aug2_shift_32_scale_0.982_noise_0.012,C08,0.5,1306,2000,padded (+694),0.5,0.0112491272,0.02,shift_32_scale_0.982_noise_0.012
+C08_0p50g_aug3_shift_-35_scale_0.936_noise_0.012,C08,0.5,1306,2000,padded (+694),0.5,0.0112491272,0.02,shift_-35_scale_0.936_noise_0.012
+CAP_0p10g,CAP,0.1,1998,2000,padded (+2),0.1,0.00275929,0.02,
+CAP_0p10g_aug1_shift_-29_scale_0.953_noise_0.013,CAP,0.1,1998,2000,padded (+2),0.1,0.00275929,0.02,shift_-29_scale_0.953_noise_0.013
+CAP_0p10g_aug2_shift_-16_scale_1.006_noise_0.024,CAP,0.1,1998,2000,padded (+2),0.1,0.00275929,0.02,shift_-16_scale_1.006_noise_0.024
+CAP_0p10g_aug3_shift_-26_scale_0.901_noise_0.014,CAP,0.1,1998,2000,padded (+2),0.1,0.00275929,0.02,shift_-26_scale_0.901_noise_0.014
+CAP_0p20g,CAP,0.2,1998,2000,padded (+2),0.2,0.00528042508,0.02,
+CAP_0p20g_aug1_shift_23_scale_0.969_noise_0.015,CAP,0.2,1998,2000,padded (+2),0.2,0.00528042508,0.02,shift_23_scale_0.969_noise_0.015
+CAP_0p20g_aug2_shift_-34_scale_0.951_noise_0.028,CAP,0.2,1998,2000,padded (+2),0.2,0.00528042508,0.02,shift_-34_scale_0.951_noise_0.028
+CAP_0p20g_aug3_shift_17_scale_0.925_noise_0.024,CAP,0.2,1998,2000,padded (+2),0.2,0.00528042508,0.02,shift_17_scale_0.925_noise_0.024
+CAP_0p30g,CAP,0.3,1998,2000,padded (+2),0.3,0.00721215066,0.02,
+CAP_0p30g_aug1_shift_-44_scale_0.978_noise_0.018,CAP,0.3,1998,2000,padded (+2),0.3,0.00721215066,0.02,shift_-44_scale_0.978_noise_0.018
+CAP_0p30g_aug2_shift_-40_scale_0.982_noise_0.024,CAP,0.3,1998,2000,padded (+2),0.3,0.00721215066,0.02,shift_-40_scale_0.982_noise_0.024
+CAP_0p30g_aug3_scale_1.011_noise_0.025,CAP,0.3,1998,2000,padded (+2),0.3,0.00721215066,0.02,scale_1.011_noise_0.025
+CAP_0p40g,CAP,0.4,1998,2000,padded (+2),0.4,0.0120556393,0.02,
+CAP_0p40g_aug1_shift_-5_scale_1.014_noise_0.020,CAP,0.4,1998,2000,padded (+2),0.4,0.0120556393,0.02,shift_-5_scale_1.014_noise_0.020
+CAP_0p40g_aug2_shift_37_scale_1.074_noise_0.026,CAP,0.4,1998,2000,padded (+2),0.4,0.0120556393,0.02,shift_37_scale_1.074_noise_0.026
+CAP_0p40g_aug3_shift_-30_scale_1.057_noise_0.020,CAP,0.4,1998,2000,padded (+2),0.4,0.0120556393,0.02,shift_-30_scale_1.057_noise_0.020
+CAP_0p50g,CAP,0.5,1998,2000,padded (+2),0.5,0.0158595595,0.02,
+CAP_0p50g_aug1_shift_-9_scale_0.911_noise_0.028,CAP,0.5,1998,2000,padded (+2),0.5,0.0158595595,0.02,shift_-9_scale_0.911_noise_0.028
+CAP_0p50g_aug2_shift_1_scale_0.938_noise_0.011,CAP,0.5,1998,2000,padded (+2),0.5,0.0158595595,0.02,shift_1_scale_0.938_noise_0.011
+CAP_0p50g_aug3_shift_-35_scale_1.039_noise_0.011,CAP,0.5,1998,2000,padded (+2),0.5,0.0158595595,0.02,shift_-35_scale_1.039_noise_0.011
+CNP_0p10g,CNP,0.1,1250,2000,padded (+750),0.1,0.0029706,0.02,
+CNP_0p10g_aug1_shift_-3_scale_1.035_noise_0.012,CNP,0.1,1250,2000,padded (+750),0.1,0.0029706,0.02,shift_-3_scale_1.035_noise_0.012
+CNP_0p10g_aug2_shift_-5_scale_0.967_noise_0.021,CNP,0.1,1250,2000,padded (+750),0.1,0.0029706,0.02,shift_-5_scale_0.967_noise_0.021
+CNP_0p10g_aug3_shift_50_scale_0.908_noise_0.023,CNP,0.1,1250,2000,padded (+750),0.1,0.0029706,0.02,shift_50_scale_0.908_noise_0.023
+CNP_0p20g,CNP,0.2,1250,2000,padded (+750),0.2,0.00576956011,0.02,
+CNP_0p20g_aug1_shift_45_scale_1.023_noise_0.017,CNP,0.2,1250,2000,padded (+750),0.2,0.00576956011,0.02,shift_45_scale_1.023_noise_0.017
+CNP_0p20g_aug2_shift_30_scale_1.019_noise_0.018,CNP,0.2,1250,2000,padded (+750),0.2,0.00576956011,0.02,shift_30_scale_1.019_noise_0.018
+CNP_0p20g_aug3_shift_-44_scale_1.058_noise_0.016,CNP,0.2,1250,2000,padded (+750),0.2,0.00576956011,0.02,shift_-44_scale_1.058_noise_0.016
+CNP_0p30g,CNP,0.3,1250,2000,padded (+750),0.3,0.010922128,0.02,
+CNP_0p30g_aug1_shift_-28_scale_0.933_noise_0.012,CNP,0.3,1250,2000,padded (+750),0.3,0.010922128,0.02,shift_-28_scale_0.933_noise_0.012
+CNP_0p30g_aug2_shift_13_scale_0.946_noise_0.022,CNP,0.3,1250,2000,padded (+750),0.3,0.010922128,0.02,shift_13_scale_0.946_noise_0.022
+CNP_0p30g_aug3_shift_-33_scale_1.045_noise_0.011,CNP,0.3,1250,2000,padded (+750),0.3,0.010922128,0.02,shift_-33_scale_1.045_noise_0.011
+CNP_0p40g,CNP,0.4,1250,2000,padded (+750),0.4,0.014099351,0.02,
+CNP_0p40g_aug1_shift_3_scale_0.914_noise_0.017,CNP,0.4,1250,2000,padded (+750),0.4,0.014099351,0.02,shift_3_scale_0.914_noise_0.017
+CNP_0p40g_aug2_shift_28_scale_1.024_noise_0.020,CNP,0.4,1250,2000,padded (+750),0.4,0.014099351,0.02,shift_28_scale_1.024_noise_0.020
+CNP_0p40g_aug3_shift_-46_scale_0.992_noise_0.029,CNP,0.4,1250,2000,padded (+750),0.4,0.014099351,0.02,shift_-46_scale_0.992_noise_0.029
+CNP_0p50g,CNP,0.5,1250,2000,padded (+750),0.5,0.016121687,0.02,
+CNP_0p50g_aug1_shift_-47_scale_1.006_noise_0.028,CNP,0.5,1250,2000,padded (+750),0.5,0.016121687,0.02,shift_-47_scale_1.006_noise_0.028
+CNP_0p50g_aug2_shift_-37_scale_0.914_noise_0.018,CNP,0.5,1250,2000,padded (+750),0.5,0.016121687,0.02,shift_-37_scale_0.914_noise_0.018
+CNP_0p50g_aug3_shift_22_scale_1.007_noise_0.021,CNP,0.5,1250,2000,padded (+750),0.5,0.016121687,0.02,shift_22_scale_1.007_noise_0.021
+INO_0p10g,INO,0.1,1500,2000,padded (+500),0.1,0.00334819363,0.02,
+INO_0p10g_aug1_shift_-36_scale_0.925_noise_0.025,INO,0.1,1500,2000,padded (+500),0.1,0.00334819363,0.02,shift_-36_scale_0.925_noise_0.025
+INO_0p10g_aug2_shift_5_scale_1.036_noise_0.013,INO,0.1,1500,2000,padded (+500),0.1,0.00334819363,0.02,shift_5_scale_1.036_noise_0.013
+INO_0p10g_aug3_shift_12_scale_1.072_noise_0.014,INO,0.1,1500,2000,padded (+500),0.1,0.00334819363,0.02,shift_12_scale_1.072_noise_0.014
+INO_0p20g,INO,0.2,1500,2000,padded (+500),0.2,0.00632008781,0.02,
+INO_0p20g_aug1_shift_-45_scale_1.097_noise_0.019,INO,0.2,1500,2000,padded (+500),0.2,0.00632008781,0.02,shift_-45_scale_1.097_noise_0.019
+INO_0p20g_aug2_shift_16_scale_1.095_noise_0.030,INO,0.2,1500,2000,padded (+500),0.2,0.00632008781,0.02,shift_16_scale_1.095_noise_0.030
+INO_0p20g_aug3_shift_30_scale_0.938_noise_0.025,INO,0.2,1500,2000,padded (+500),0.2,0.00632008781,0.02,shift_30_scale_0.938_noise_0.025
+INO_0p30g,INO,0.3,1500,2000,padded (+500),0.3,0.00873285056,0.02,
+INO_0p30g_aug1_shift_-42_scale_1.009_noise_0.013,INO,0.3,1500,2000,padded (+500),0.3,0.00873285056,0.02,shift_-42_scale_1.009_noise_0.013
+INO_0p30g_aug2_shift_29_scale_0.923_noise_0.020,INO,0.3,1500,2000,padded (+500),0.3,0.00873285056,0.02,shift_29_scale_0.923_noise_0.020
+INO_0p30g_aug3_shift_26_scale_0.964_noise_0.025,INO,0.3,1500,2000,padded (+500),0.3,0.00873285056,0.02,shift_26_scale_0.964_noise_0.025
+INO_0p40g,INO,0.4,1500,2000,padded (+500),0.4,0.0106060801,0.02,
+INO_0p40g_aug1_shift_-4_scale_0.948_noise_0.012,INO,0.4,1500,2000,padded (+500),0.4,0.0106060801,0.02,shift_-4_scale_0.948_noise_0.012
+INO_0p40g_aug2_shift_46_scale_0.987_noise_0.013,INO,0.4,1500,2000,padded (+500),0.4,0.0106060801,0.02,shift_46_scale_0.987_noise_0.013
+INO_0p40g_aug3_shift_-50_scale_0.913_noise_0.028,INO,0.4,1500,2000,padded (+500),0.4,0.0106060801,0.02,shift_-50_scale_0.913_noise_0.028
+INO_0p50g,INO,0.5,1500,2000,padded (+500),0.5,0.013362206,0.02,
+INO_0p50g_aug1_shift_21_scale_1.021_noise_0.010,INO,0.5,1500,2000,padded (+500),0.5,0.013362206,0.02,shift_21_scale_1.021_noise_0.010
+INO_0p50g_aug2_shift_-26_scale_0.929_noise_0.018,INO,0.5,1500,2000,padded (+500),0.5,0.013362206,0.02,shift_-26_scale_0.929_noise_0.018
+INO_0p50g_aug3_shift_37_scale_0.991_noise_0.024,INO,0.5,1500,2000,padded (+500),0.5,0.013362206,0.02,shift_37_scale_0.991_noise_0.024
+PHN_0p10g,PHN,0.1,1160,2000,padded (+840),0.1,0.00198471,0.02,
+PHN_0p10g_aug1_shift_-45_scale_1.069_noise_0.010,PHN,0.1,1160,2000,padded (+840),0.1,0.00198471,0.02,shift_-45_scale_1.069_noise_0.010
+PHN_0p10g_aug2_shift_24_scale_1.051_noise_0.024,PHN,0.1,1160,2000,padded (+840),0.1,0.00198471,0.02,shift_24_scale_1.051_noise_0.024
+PHN_0p10g_aug3_shift_32_scale_1.068_noise_0.020,PHN,0.1,1160,2000,padded (+840),0.1,0.00198471,0.02,shift_32_scale_1.068_noise_0.020
+PHN_0p20g,PHN,0.2,1160,2000,padded (+840),0.2,0.00398273,0.02,
+PHN_0p20g_aug1_shift_28_scale_1.025_noise_0.030,PHN,0.2,1160,2000,padded (+840),0.2,0.00398273,0.02,shift_28_scale_1.025_noise_0.030
+PHN_0p20g_aug2_shift_22_scale_1.086_noise_0.020,PHN,0.2,1160,2000,padded (+840),0.2,0.00398273,0.02,shift_22_scale_1.086_noise_0.020
+PHN_0p20g_aug3_shift_-12_scale_0.942_noise_0.022,PHN,0.2,1160,2000,padded (+840),0.2,0.00398273,0.02,shift_-12_scale_0.942_noise_0.022
+PHN_0p30g,PHN,0.3,1160,2000,padded (+840),0.3,0.00578292868,0.02,
+PHN_0p30g_aug1_shift_41_scale_0.931_noise_0.030,PHN,0.3,1160,2000,padded (+840),0.3,0.00578292868,0.02,shift_41_scale_0.931_noise_0.030
+PHN_0p30g_aug2_shift_39_scale_1.051_noise_0.018,PHN,0.3,1160,2000,padded (+840),0.3,0.00578292868,0.02,shift_39_scale_1.051_noise_0.018
+PHN_0p30g_aug3_shift_-9_scale_0.939_noise_0.022,PHN,0.3,1160,2000,padded (+840),0.3,0.00578292868,0.02,shift_-9_scale_0.939_noise_0.022
+PHN_0p40g,PHN,0.4,1160,2000,padded (+840),0.4,0.00817522378,0.02,
+PHN_0p40g_aug1_shift_-11_scale_0.957_noise_0.026,PHN,0.4,1160,2000,padded (+840),0.4,0.00817522378,0.02,shift_-11_scale_0.957_noise_0.026
+PHN_0p40g_aug2_shift_-34_scale_0.920_noise_0.014,PHN,0.4,1160,2000,padded (+840),0.4,0.00817522378,0.02,shift_-34_scale_0.920_noise_0.014
+PHN_0p40g_aug3_shift_-47_scale_0.913_noise_0.021,PHN,0.4,1160,2000,padded (+840),0.4,0.00817522378,0.02,shift_-47_scale_0.913_noise_0.021
+PHN_0p50g,PHN,0.5,1160,2000,padded (+840),0.5,0.010733444,0.02,
+PHN_0p50g_aug1_shift_4_scale_1.069_noise_0.016,PHN,0.5,1160,2000,padded (+840),0.5,0.010733444,0.02,shift_4_scale_1.069_noise_0.016
+PHN_0p50g_aug2_shift_-30_scale_0.979_noise_0.023,PHN,0.5,1160,2000,padded (+840),0.5,0.010733444,0.02,shift_-30_scale_0.979_noise_0.023
+PHN_0p50g_aug3_shift_4_scale_0.985_noise_0.015,PHN,0.5,1160,2000,padded (+840),0.5,0.010733444,0.02,shift_4_scale_0.985_noise_0.015
+SLC_0p10g,SLC,0.1,1979,2000,padded (+21),0.1,0.00231692,0.02,
+SLC_0p10g_aug1_shift_-49_scale_1.062_noise_0.026,SLC,0.1,1979,2000,padded (+21),0.1,0.00231692,0.02,shift_-49_scale_1.062_noise_0.026
+SLC_0p10g_aug2_shift_3_scale_0.936_noise_0.021,SLC,0.1,1979,2000,padded (+21),0.1,0.00231692,0.02,shift_3_scale_0.936_noise_0.021
+SLC_0p10g_aug3_shift_-15_scale_0.921_noise_0.012,SLC,0.1,1979,2000,padded (+21),0.1,0.00231692,0.02,shift_-15_scale_0.921_noise_0.012
+SLC_0p20g,SLC,0.2,1979,2000,padded (+21),0.2,0.0046832984,0.02,
+SLC_0p20g_aug1_shift_29_scale_1.085_noise_0.012,SLC,0.2,1979,2000,padded (+21),0.2,0.0046832984,0.02,shift_29_scale_1.085_noise_0.012
+SLC_0p20g_aug2_shift_-39_scale_0.985_noise_0.018,SLC,0.2,1979,2000,padded (+21),0.2,0.0046832984,0.02,shift_-39_scale_0.985_noise_0.018
+SLC_0p20g_aug3_shift_12_scale_0.934_noise_0.027,SLC,0.2,1979,2000,padded (+21),0.2,0.0046832984,0.02,shift_12_scale_0.934_noise_0.027
+SLC_0p30g,SLC,0.3,1979,2000,padded (+21),0.3,0.0083032184,0.02,
+SLC_0p30g_aug1_shift_10_scale_1.020_noise_0.024,SLC,0.3,1979,2000,padded (+21),0.3,0.0083032184,0.02,shift_10_scale_1.020_noise_0.024
+SLC_0p30g_aug2_shift_49_scale_0.904_noise_0.027,SLC,0.3,1979,2000,padded (+21),0.3,0.0083032184,0.02,shift_49_scale_0.904_noise_0.027
+SLC_0p30g_aug3_shift_-30_scale_1.057_noise_0.029,SLC,0.3,1979,2000,padded (+21),0.3,0.0083032184,0.02,shift_-30_scale_1.057_noise_0.029
+SLC_0p40g,SLC,0.4,1979,2000,padded (+21),0.4,0.0111704624,0.02,
+SLC_0p40g_aug1_shift_16_scale_0.936_noise_0.011,SLC,0.4,1979,2000,padded (+21),0.4,0.0111704624,0.02,shift_16_scale_0.936_noise_0.011
+SLC_0p40g_aug2_shift_-9_scale_0.984_noise_0.016,SLC,0.4,1979,2000,padded (+21),0.4,0.0111704624,0.02,shift_-9_scale_0.984_noise_0.016
+SLC_0p40g_aug3_shift_-15_scale_1.080_noise_0.025,SLC,0.4,1979,2000,padded (+21),0.4,0.0111704624,0.02,shift_-15_scale_1.080_noise_0.025
+SLC_0p50g,SLC,0.5,1979,2000,padded (+21),0.5,0.0222837416,0.02,
+SLC_0p50g_aug1_shift_-18_scale_1.072_noise_0.011,SLC,0.5,1979,2000,padded (+21),0.5,0.0222837416,0.02,shift_-18_scale_1.072_noise_0.011
+SLC_0p50g_aug2_shift_-43_scale_1.083_noise_0.028,SLC,0.5,1979,2000,padded (+21),0.5,0.0222837416,0.02,shift_-43_scale_1.083_noise_0.028
+SLC_0p50g_aug3_shift_27_scale_0.990_noise_0.013,SLC,0.5,1979,2000,padded (+21),0.5,0.0222837416,0.02,shift_27_scale_0.990_noise_0.013
+Z-PEL_0p10g,Z-PEL,0.1,1400,2000,padded (+600),0.1,0.00355098177,0.02,
+Z-PEL_0p10g_aug1_shift_-45_scale_0.928_noise_0.012,Z-PEL,0.1,1400,2000,padded (+600),0.1,0.00355098177,0.02,shift_-45_scale_0.928_noise_0.012
+Z-PEL_0p10g_aug2_shift_34_scale_0.989_noise_0.016,Z-PEL,0.1,1400,2000,padded (+600),0.1,0.00355098177,0.02,shift_34_scale_0.989_noise_0.016
+Z-PEL_0p10g_aug3_shift_43_scale_0.956_noise_0.012,Z-PEL,0.1,1400,2000,padded (+600),0.1,0.00355098177,0.02,shift_43_scale_0.956_noise_0.012
+Z-PEL_0p20g,Z-PEL,0.2,1400,2000,padded (+600),0.2,0.007718947,0.02,
+Z-PEL_0p20g_aug1_shift_-47_scale_1.031_noise_0.026,Z-PEL,0.2,1400,2000,padded (+600),0.2,0.007718947,0.02,shift_-47_scale_1.031_noise_0.026
+Z-PEL_0p20g_aug2_shift_1_scale_1.067_noise_0.015,Z-PEL,0.2,1400,2000,padded (+600),0.2,0.007718947,0.02,shift_1_scale_1.067_noise_0.015
+Z-PEL_0p20g_aug3_shift_5_scale_1.013_noise_0.024,Z-PEL,0.2,1400,2000,padded (+600),0.2,0.007718947,0.02,shift_5_scale_1.013_noise_0.024
+Z-PEL_0p30g,Z-PEL,0.3,1400,2000,padded (+600),0.3,0.00897039188,0.02,
+Z-PEL_0p30g_aug1_shift_32_scale_1.003_noise_0.012,Z-PEL,0.3,1400,2000,padded (+600),0.3,0.00897039188,0.02,shift_32_scale_1.003_noise_0.012
+Z-PEL_0p30g_aug2_shift_48_scale_0.956_noise_0.027,Z-PEL,0.3,1400,2000,padded (+600),0.3,0.00897039188,0.02,shift_48_scale_0.956_noise_0.027
+Z-PEL_0p30g_aug3_shift_28_scale_0.937_noise_0.016,Z-PEL,0.3,1400,2000,padded (+600),0.3,0.00897039188,0.02,shift_28_scale_0.937_noise_0.016
+Z-PEL_0p40g,Z-PEL,0.4,1400,2000,padded (+600),0.4,0.0121505049,0.02,
+Z-PEL_0p40g_aug1_shift_42_scale_0.927_noise_0.023,Z-PEL,0.4,1400,2000,padded (+600),0.4,0.0121505049,0.02,shift_42_scale_0.927_noise_0.023
+Z-PEL_0p40g_aug2_scale_1.062_noise_0.013,Z-PEL,0.4,1400,2000,padded (+600),0.4,0.0121505049,0.02,scale_1.062_noise_0.013
+Z-PEL_0p40g_aug3_shift_-6_scale_1.055_noise_0.029,Z-PEL,0.4,1400,2000,padded (+600),0.4,0.0121505049,0.02,shift_-6_scale_1.055_noise_0.029
+Z-PEL_0p50g,Z-PEL,0.5,1400,2000,padded (+600),0.5,0.0177676272,0.02,
+Z-PEL_0p50g_aug1_shift_41_scale_0.971_noise_0.027,Z-PEL,0.5,1400,2000,padded (+600),0.5,0.0177676272,0.02,shift_41_scale_0.971_noise_0.027
+Z-PEL_0p50g_aug2_shift_40_scale_1.025_noise_0.019,Z-PEL,0.5,1400,2000,padded (+600),0.5,0.0177676272,0.02,shift_40_scale_1.025_noise_0.019
+Z-PEL_0p50g_aug3_shift_-41_scale_0.975_noise_0.027,Z-PEL,0.5,1400,2000,padded (+600),0.5,0.0177676272,0.02,shift_-41_scale_0.975_noise_0.027
